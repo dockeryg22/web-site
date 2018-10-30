@@ -1,6 +1,3 @@
-# web-site
-My first website
-<h1> This is my first experience with GitHub </h1>
 <body assistant-stop-on-escape="" ng-controller="AppCtrl as $ctrl" data-state="story" ng-class="{'assistant-on': $ctrl.isAssistantOn, '-is-tpa': $ctrl.isTpa}" data-experiment-cards-to-panels="true" data-experiment-new-intro-design="true" data-experiment-new-top-bar="true" data-experiment-remove-spinner-as-stage-ready="true" data-experiment-super-res="true" data-experiment-text-manager-ux-improvement="true" class="" style="">
   <!--  -->
   <!-- Google Tag Manager (noscript) -->
